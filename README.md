@@ -31,10 +31,6 @@
 <td>NIT Raipur — IT</td>
 </tr>
 
-<tr>
-<td><b>Degree</b></td>
-<td>B.Tech</td>
-</tr>
 
 <tr>
 <td><b>Focus</b></td>
