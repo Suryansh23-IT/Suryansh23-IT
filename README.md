@@ -25,26 +25,32 @@
 <td><b>Name</b></td>
 <td>Suryansh Dwivedi</td>
 </tr>
+
 <tr>
 <td><b>College</b></td>
-<td>National Institute of Technology Raipur</td>
+<td>NIT Raipur — IT</td>
 </tr>
+
 <tr>
 <td><b>Degree</b></td>
-<td>B.Tech — Information Technology</td>
+<td>B.Tech</td>
 </tr>
+
 <tr>
 <td><b>Focus</b></td>
 <td>AI/ML • Data Analytics • Software Development</td>
 </tr>
+
 <tr>
 <td><b>Languages</b></td>
 <td>C • C++ • Java • Python • JavaScript • SQL</td>
 </tr>
+
 <tr>
 <td><b>Style</b></td>
 <td>Vibe Coder ⚡</td>
 </tr>
+
 <tr>
 <td><b>Mindset</b></td>
 <td>Learn → Build → Break → Debug → Improve → Repeat</td>
@@ -53,21 +59,11 @@
 
 I enjoy exploring different areas of technology instead of limiting myself to one stack.
 
-My current interests revolve around **AI/ML, Data Analytics, Software Development, Computer Vision and Full-Stack Development**. I also use modern AI tools extensively for learning, brainstorming, coding and debugging.
+My main interests are **AI/ML, Data Analytics, Software Development, Computer Vision and Full-Stack Development**.
+
+I also use modern AI tools extensively for learning, brainstorming, coding, debugging and rapid experimentation.
 
 I like learning enough to turn ideas into something that actually works.
-
----
-
-## 🚀 What I'm Into
-
-- 🤖 Artificial Intelligence & Machine Learning
-- 📊 Data Analytics & Data-driven problem solving
-- 💻 Software & Full-Stack Development
-- 👁️ Computer Vision
-- ⚡ AI-assisted development & Vibe Coding
-- 🧠 CS fundamentals & problem solving
-- 🌐 Emerging technologies
 
 ---
 
@@ -148,8 +144,6 @@ More experiments and projects are on the way. 🚀
 ---
 
 ## 🌌 Beyond Code
-
-I'm curious about more than just programming.
 
 <p align="center">
 
